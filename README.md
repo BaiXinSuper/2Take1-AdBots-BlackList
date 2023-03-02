@@ -8,7 +8,7 @@
 
 # 如何运行服务端
 1. 第一次运行，打开 run me before start server [Once].bat
-2. 安装 MongoDB [win 10+](https://www.mongodb.com/download-center/community/releases) [Linux](https://www.mongodb.com/download-center/community/releases)
+2. 安装 MongoDB [win10 +](https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-6.0.4-signed.msi)     [Linux](https://www.mongodb.com/download-center/community/releases)
 3. 打开server_no_white.py，
 4. 正常运行如下
 * Serving Flask app 'server_no_white'
